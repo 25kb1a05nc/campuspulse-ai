@@ -43,8 +43,8 @@ For hackathon validators, use the dedicated demonstration account provided by th
 | Field | Demo details |
 |---|---|
 | Login URL | https://campuspulse-ai-3889a.web.app |
-| Demo email | `YOUR_DEMO_EMAIL` |
-| Demo password | `REQUEST_FROM_PROJECT_TEAM` |
+| Demo email | `25kb1a05demo@nbkrist.org` |
+| Demo password | `NBKRIST@demo` |
 | Access | Authorized demo staff account |
 
 **Important:** The credentials above are placeholders, not working login credentials. Replace them with your chosen validator access instructions after configuring a dedicated demo account.
